@@ -1,0 +1,30 @@
+/* =========================================
+   Hoja de Vida - Luis Carlos Taborda Flórez
+   Estilos personalizados (complementa Tailwind)
+   ========================================= */
+
+body {
+    background-color: #f1f5f9;
+}
+
+/* --- Tarjetas de sección --- */
+.section-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.section-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1),
+                0 8px 10px -6px rgba(0, 0, 0, 0.1);
+}
+
+/* --- Badges de habilidades --- */
+.skill-badge {
+    transition: all 0.2s ease;
+}
+
+.skill-badge:hover {
+    background-color: #1e40af;
+    color: white;
+    transform: scale(1.05);
+}
