@@ -1,11 +1,15 @@
-<img width="1892" height="979" alt="image" src="https://github.com/user-attachments/assets/eaeb079d-b792-43da-8e22-672ce5e29cf2" /># 📄 Hoja de Vida — Luis Carlos Taborda Flórez
+# 📄 Hoja de Vida — Luis Carlos Taborda Flórez
 
 Página web estática que presenta mi hoja de vida de forma moderna y responsiva, construida con **HTML** y **Tailwind CSS**.
 
 ## 🚀 Demo en vivo
 
 🔗 [hoja-de-vida-virid.vercel.app](https://hoja-de-vida-virid.vercel.app)
+
+
 <img width="1890" height="962" alt="image" src="https://github.com/user-attachments/assets/5f2178bf-aa3c-43c2-9b7d-96f5a6a6ce6a" />
+
+
 <img width="1892" height="979" alt="image" src="https://github.com/user-attachments/assets/ce5a29c3-22ba-465c-972d-dd5e52fee147" />
 
 
@@ -15,6 +19,10 @@ Página web estática que presenta mi hoja de vida de forma moderna y responsiva
 ## 📁 Repositorio
 
 🐙 [github.com/TABORDA1234/hoja-de-vida](https://github.com/TABORDA1234/hoja-de-vida)
+
+
+<img width="1900" height="975" alt="image" src="https://github.com/user-attachments/assets/f46ba5e1-0c39-4096-a0a1-66d8989482d3" />
+
 
 ## 🛠️ Tecnologías
 
